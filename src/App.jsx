@@ -13,7 +13,6 @@ export class App extends Component {
     photos: [],
     query: null,
     btnShow: false,
-    isModalOpen: false,
     largeImageUrl: null,
     isLoader: false,
   };
